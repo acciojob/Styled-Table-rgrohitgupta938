@@ -8,6 +8,7 @@ thead tr:first-child{
 	background-color:blue;
 	color:white;
 	text-align:left;
+	text-transform:uppercase;
 }
 th,td{
 	padding:10px;
