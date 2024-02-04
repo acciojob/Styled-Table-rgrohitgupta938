@@ -1,1 +1,17 @@
 /* your code */
+table{
+	width:100%;
+	border-radius:10px;
+	border-collapse:collapse;
+}
+thead tr:first-child{
+	background-color:blue;
+	color:white;
+	text-align:left;
+}
+th,td{
+	padding:10px;
+}
+tr:nth-child(even){
+	background-color:lightgray;
+}
